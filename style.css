@@ -1,0 +1,124 @@
+body { background-color: rgb(10, 10, 10);
+}
+
+.header {
+    position: relative;
+    overflow: hidden;
+    padding: 0.00000000005px;
+    border: 3px double rgb(116, 97, 73);
+} 
+.header h1 {
+    padding: 90px;
+    position: relative;
+    z-index: 2;
+    color: rgb(162, 172, 172);
+    
+}
+.header img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+.f1 { border: 1px solid rgb(97, 88, 79);
+    padding: 16px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin: 50px;
+    width: 52%;
+}
+
+.f1 h2 { color: #d6d6d6;
+         font-size: 24px;
+         font-weight: lighter;
+}
+
+.f1 h3 { color: #e0cd79;
+    font-size: 13px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    position: relative;
+    left: 60%;
+    bottom: 1575px;
+  }
+  
+  caption {
+    caption-side: top;
+    padding: 10px;
+    font-weight: bold;
+    color: #d6d6d6;
+  }
+  
+  thead,
+  tfoot {
+    background-color: rgb(48, 46, 46);
+  }
+  th,
+  td {
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 10px;
+    background-color: rgb(48, 46, 46);
+  }
+  
+  td:last-of-type {
+    text-align: center;
+  }
+
+  #c { width: 200px;
+    position: relative;
+       left: 1100px;
+       bottom: 500px;
+  }
+
+  #c2 { width: 200px;
+    position: relative;
+       left: 650px;
+       bottom: 500px;
+  }
+  
+
+/*Link não visitado */
+a:link {
+  color: rgb(115, 143, 139);
+  text-decoration: none;
+}
+
+/*Link já visitado*/
+a:visited {
+    color: rgb(127, 127, 168);
+    text-decoration: none;
+  }
+
+  .p { color: #d6d6d6;
+    font-size: 13px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 230px;
+    border: 1px solid rgb(97, 88, 79);
+    margin: 50px;
+    padding: 20px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+  }
+
+  .p2 { color: #d6d6d6;
+    font-size: 13px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 230px;
+    border: 1px solid rgb(97, 88, 79);
+    margin: 50px;
+    padding: 20px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+  }
