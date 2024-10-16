@@ -135,7 +135,7 @@ a:visited {
            margin-top: 0px;
   }
 
-  footer { position: fixed;
+  footer { position: relative;
             bottom: 0;
             width: 100%;
   }
